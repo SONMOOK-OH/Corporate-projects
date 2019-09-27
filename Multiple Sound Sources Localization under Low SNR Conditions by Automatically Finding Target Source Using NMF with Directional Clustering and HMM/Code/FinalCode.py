@@ -73,11 +73,11 @@ for hj in range(1, gainiter):
     X1_clean, X2_clean= Init_Shifting(X1_clean, X2_clean)
     
 # =============================================================================
-#     white_Leftsound=pd.read_csv(r'E:\Sound\Leftsound_150_50cm_babbleLOUD.csv')
-#     white_Rightsound=pd.read_csv(r'E:\Sound\Rightsound_150_50cm_babbleLOUD.csv')
+#     white_Leftsound=pd.read_csv(r'Sound1\Leftsound_150_50cm_babbleLOUD.csv')
+#     white_Rightsound=pd.read_csv(r'Sound1\Rightsound_150_50cm_babbleLOUD.csv')
 # =============================================================================
-    white_Leftsound=pd.read_csv(r'E:\Sound\Leftsound_150_50cm_white.csv')
-    white_Rightsound=pd.read_csv(r'E:\Sound\Rightsound_150_50cm_white.csv')
+    white_Leftsound=pd.read_csv(r'Sound1\Leftsound_150_50cm_white.csv')
+    white_Rightsound=pd.read_csv(r'Sound1\Rightsound_150_50cm_white.csv')
 # =============================================================================
 #     white_Leftsound=pd.read_csv(r'Sound/Lsound_150_50cm_engineroom.csv')
 #     white_Rightsound=pd.read_csv(r'Sound/Rsound_150_50cm_engineroom.csv')

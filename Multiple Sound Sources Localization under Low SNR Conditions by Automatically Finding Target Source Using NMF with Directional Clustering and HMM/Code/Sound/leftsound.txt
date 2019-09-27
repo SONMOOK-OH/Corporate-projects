@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportImportMemento.1>
+<VarMeta IMemento.internal.id="sample_data"/>
+<VarMeta IMemento.internal.id="sample_data1"/>
+<VarMeta IMemento.internal.id="PLL_LOCK_TIME_CNT"/>
+<VarMeta IMemento.internal.id="PLLEN_MUX_SWITCH"/>
+<VarMeta IMemento.internal.id="sec"/>
+<VarMeta IMemento.internal.id="sample_dataL"/>
+<VarMeta IMemento.internal.id="sample_dataR"/>
+<VarMeta IMemento.internal.id="graph_time_num"/>
+<VarMeta IMemento.internal.id="r"/>
+<VarMeta IMemento.internal.id="delay"/>
+<VarMeta IMemento.internal.id="maxdelay"/>
+<VarMeta IMemento.internal.id="Sum_sample"/>
+<VarMeta IMemento.internal.id="direction"/>
+<VarMeta IMemento.internal.id="maxr"/>
+<VarMeta IMemento.internal.id="sample"/>
+</ExportImportMemento.1>
